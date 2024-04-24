@@ -1,4 +1,4 @@
 
 module github.com/spaumx/requester
 
-go 1.22
+go 1.20
